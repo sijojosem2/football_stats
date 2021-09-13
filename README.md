@@ -20,7 +20,7 @@ Both these queries are found in [queries.sql](https://github.com/sijojosem2/foot
 
 ### 4. Make a ER diagram of how the tables will relate to each other
 
-A simple data model is given in in the generated ER diagram 
+A simple data model is given in in the generated ER diagram [data_model.png](https://github.com/sijojosem2/football_stats/blob/main/data_model.png)
 
 ### 5. Create a SQL query that will output all the teams that have won at least 3 times the Premier League since 2000-08-19. Show the team’s name and how many titles it has won.
 
