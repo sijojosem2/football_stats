@@ -54,8 +54,3 @@ The data for the ETL is sourced from the locations provided in [input.py](https:
 ```
  The api key is exported in the env 
 
-[queries.sql](https://github.com/sijojosem2/football_stats/blob/main/queries.sql)
-
-[input.py](https://github.com/sijojosem2/football_stats/blob/main/input.py)
-
-[config.py](https://github.com/sijojosem2/football_stats/blob/main/config.py)
