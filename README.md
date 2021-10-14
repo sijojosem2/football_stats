@@ -1,5 +1,3 @@
-# Task Assignment Overview
-
 ## ETL Overview
 
 ### 1. Create an ETL job in Python to import all available season’s data of the English Premier League (PL) competition. For this you will need to use the free RESTful API football-data.org (consider how to manage the response in order to transform the data to fulfill the next steps).
